@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_760914_leaflet.admin" name="x_760914_leaflet.admin">331a391347bd91106eaffa37536d43da</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 02:57:55</sys_created_on>
+        <sys_id>ff1a391347bd91106eaffa37536d43db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>331a391347bd91106eaffa37536d43da</sys_name>
+        <sys_package display_value="Leaflet" source="x_760914_leaflet">331a391347bd91106eaffa37536d43d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leaflet">331a391347bd91106eaffa37536d43d3</sys_scope>
+        <sys_update_name>sys_embedded_help_role_ff1a391347bd91106eaffa37536d43db</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 02:57:55</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="d9aa395339bd9110f940f37d01b28f5e" sys_domain="global" table="sys_user" version="3" view="custom_portal_settings_x_760914_leaflet">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_zone</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2022-09-13 03:00:15</sys_created_on>
+            <sys_id>11aa3953c4bd911028d99fb46891da5f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="9daa3953d5bd9110b7adb78dcbda205e">d9aa395339bd9110f940f37d01b28f5e</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2022-09-13 03:00:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2022-09-13 03:00:15</sys_created_on>
+            <sys_id>91aa3953eebd91103ea3cfd497dacf5f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="9daa3953d5bd9110b7adb78dcbda205e">d9aa395339bd9110f940f37d01b28f5e</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2022-09-13 03:00:15</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>preferred_language</element>
+            <position>2</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2022-09-13 03:00:15</sys_created_on>
+            <sys_id>1daa3953c1bd91100854ee549aa8c85e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="9daa3953d5bd9110b7adb78dcbda205e">d9aa395339bd9110f940f37d01b28f5e</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2022-09-13 03:00:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sys_user</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2022-09-13 03:00:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d9aa395339bd9110f940f37d01b28f5e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_user</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Leaflet" source="x_760914_leaflet">331a391347bd91106eaffa37536d43d3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Leaflet">331a391347bd91106eaffa37536d43d3</sys_scope>
+            <sys_update_name>sys_ui_section_d9aa395339bd9110f940f37d01b28f5e</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2022-09-13 03:00:15</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Custom portal settings (x_760914_leaflet)" name="custom_portal_settings_x_760914_leaflet">9daa3953d5bd9110b7adb78dcbda205e</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
